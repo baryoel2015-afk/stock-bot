@@ -1,4 +1,4 @@
-name: Stock Bot
+name: Stock Bot Daily
 
 on:
   schedule:
